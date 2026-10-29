@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "GitHub 中文插件",
+  "name": "__MSG_extName__",
   "version": "1.0.0",
-  "description": "把 GitHub 界面汉化的浏览器插件：内置常用词库 + 可选的整页机器翻译。",
+  "description": "__MSG_extDescription__",
   "default_locale": "zh_CN",
   "icons": {
     "16": "icons/icon16.png",
